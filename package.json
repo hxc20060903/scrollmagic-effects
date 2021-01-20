@@ -48,7 +48,7 @@
     "webpack-dev-server": "^3.8.0"
   },
   "dependencies": {
-    "gsap": "^3.0.4",
+    "gsap": "^3.6.0",
     "lodash": "^4.17.15",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
